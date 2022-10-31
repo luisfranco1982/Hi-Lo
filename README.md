@@ -1,5 +1,6 @@
-# Hi-Lo
-Hi-Lo Game in .NET 6 (C#)
+# Hi-Lo Game in .NET 6 (C#)
+
+
 Main function has the Multiplayer version of the game
 Class HiloTypes with the SingePlayer Version of the game
 
